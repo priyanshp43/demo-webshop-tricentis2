@@ -1,0 +1,335 @@
+2024-12-16 15:12:837 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:659 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:628 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:627 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:277 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 15:12:75 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:609 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 15:12:662 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:275 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 15:12:559 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:134 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 15:12:324 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:986 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 15:12:151 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 15:12:439 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 15:12:598 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 15:12:924 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:501 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 15:12:645 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 15:12:180 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 15:12:471 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 15:12:275 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:892 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 15:12:45 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:750 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 15:12:876 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 15:12:215 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 15:12:264 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 15:12:137 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:817 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 15:12:940 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 15:12:220 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 15:12:334 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 15:12:94 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 15:12:699 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 15:12:827 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 15:12:230 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 15:12:391 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:628 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:918 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:828 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:839 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:867 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:08 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:287 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:739 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:217 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:475 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:699 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:919 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:385 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:121 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:210 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:698 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:226 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:909 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:31 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:306 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:426 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:194 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:755 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 16:12:940 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 16:12:384 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:585 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 16:12:102 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:517 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:505 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:12 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:149 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:418 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:548 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:100 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:646 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 16:12:750 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 16:12:189 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:409 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 16:12:905 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:526 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:164 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:633 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:740 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:997 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:102 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:843 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:392 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 16:12:538 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 16:12:987 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:217 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 16:12:909 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:420 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:324 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:859 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:976 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:272 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:391 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:229 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:788 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 16:12:885 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 16:12:328 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:547 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 16:12:732 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:327 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 16:12:494 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:324 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 16:12:490 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 16:12:805 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:959 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 16:12:824 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:339 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 16:12:462 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 16:12:944 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 16:12:157 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 16:12:271 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 16:12:24 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 16:12:153 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 17:12:573 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:39 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 17:12:87 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:701 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 17:12:787 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 17:12:434 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:869 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 17:12:310 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:836 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 17:12:725 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:278 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 17:12:406 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 17:12:685 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 17:12:815 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 17:12:462 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:961 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 17:12:19 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 17:12:833 INFO  RegisterPage :77 - Get registerText : Register
+2024-12-16 17:12:860 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 17:12:525 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 17:12:663 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 17:12:971 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 17:12:90 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 17:12:77 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 17:12:628 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-16 17:12:708 INFO  RegisterPage :156 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-16 17:12:790 INFO  RegisterPage :156 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-16 17:12:869 INFO  RegisterPage :156 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-16 18:12:904 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:623 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 18:12:741 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 18:12:04 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 18:12:140 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 18:12:707 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 18:12:360 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-16 18:12:485 INFO  RegisterPage :156 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-16 18:12:547 INFO  RegisterPage :156 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-16 18:12:607 INFO  RegisterPage :156 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-16 18:12:668 INFO  RegisterPage :156 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-16 18:12:385 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:950 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 18:12:986 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:557 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 18:12:717 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 18:12:987 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 18:12:90 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 18:12:861 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:380 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 18:12:498 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 18:12:976 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 18:12:197 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 18:12:388 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:170 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 18:12:299 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 18:12:988 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 18:12:546 INFO  RegisterPage :77 - Get registerText : Register
+2024-12-16 18:12:114 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 18:12:689 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-16 18:12:758 INFO  RegisterPage :156 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-16 18:12:848 INFO  RegisterPage :156 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-16 18:12:926 INFO  RegisterPage :156 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-16 18:12:971 INFO  RegisterPage :156 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-16 18:12:994 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 18:12:597 INFO  RegisterPage :86 - Select 'Female' radio button
+2024-12-16 18:12:757 INFO  RegisterPage :97 - Enter Firstname : 'Tithi' to firstName field
+2024-12-16 18:12:864 INFO  RegisterPage :104 - Enter Lastname : 'Shah' to lastName field
+2024-12-16 18:12:19 INFO  RegisterPage :122 - Enter Email : 'Radhika.shah1901@gmail.com' to email field
+2024-12-16 18:12:115 INFO  RegisterPage :129 - Enter Password : 'Radhika123' to password field
+2024-12-16 18:12:209 INFO  RegisterPage :137 - Enter Confirm password : 'Radhika123' to confirm password field
+2024-12-16 18:12:773 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-16 18:12:605 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 18:12:204 INFO  ComputerPage :29 - Get pageTitle text : Computers
+2024-12-16 18:12:256 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:866 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 18:12:847 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 18:12:348 INFO  RegisterPage :77 - Get registerText : Register
+2024-12-16 18:12:700 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 18:12:590 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 18:12:522 INFO  DesktopsPage :37 - Get pageTitle text Desktops
+2024-12-16 18:12:170 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 18:12:722 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 18:12:849 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 18:12:132 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 18:12:261 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 18:12:86 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 18:12:784 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-16 18:12:887 INFO  RegisterPage :156 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-16 18:12:991 INFO  RegisterPage :156 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-16 18:12:73 INFO  RegisterPage :156 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-16 18:12:130 INFO  RegisterPage :156 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-16 18:12:777 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:992 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:350 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:874 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:384 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:931 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:359 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:11 INFO  ComputerPage :29 - Get pageTitle text : Computers
+2024-12-16 19:12:584 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:225 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:737 INFO  DesktopsPage :37 - Get pageTitle text Desktops
+2024-12-16 19:12:634 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:173 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:749 INFO  DesktopsPage :60 - Click on product 'Build your own computer' : Build your own computer
+2024-12-16 19:12:485 INFO  BuildYourOwnComputerPage :61 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-16 19:12:647 INFO  BuildYourOwnComputerPage :69 - Select RAM '2 GB'
+2024-12-16 19:12:774 INFO  BuildYourOwnComputerPage :78 - Select HDD '320 GB'
+2024-12-16 19:12:919 INFO  BuildYourOwnComputerPage :90 - Select HDD 'Windows 7 [+50.00]'
+2024-12-16 19:12:107 INFO  BuildYourOwnComputerPage :112 - Click on 'ADD TO CART' Button
+2024-12-16 19:12:406 INFO  BuildYourOwnComputerPage :119 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-16 19:12:381 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:876 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:426 INFO  DesktopsPage :60 - Click on product 'Build your own computer' : Build your own computer
+2024-12-16 19:12:224 INFO  BuildYourOwnComputerPage :61 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-16 19:12:46 INFO  HomePage :99 - Click on 'COMPUTERS' tab
+2024-12-16 19:12:613 INFO  ComputerPage :39 - Click on 'Desktops' link
+2024-12-16 19:12:104 INFO  DesktopsPage :60 - Click on product 'Build your own computer' : Build your own computer
+2024-12-16 19:12:879 INFO  BuildYourOwnComputerPage :61 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-16 19:12:394 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 19:12:812 INFO  LoginPage :38 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 19:12:591 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 19:12:123 INFO  LoginPage :47 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-16 19:12:241 INFO  LoginPage :56 - Enter Password 'k123457' to password field : 
+2024-12-16 19:12:523 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 19:12:634 INFO  LoginPage :71 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-16 19:12:228 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 19:12:793 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 19:12:951 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 19:12:551 INFO  LoginPage :64 - Click on loginButton
+2024-12-16 19:12:773 INFO  HomePage :82 - Checking is logOutLink displayed : Log out
+2024-12-16 19:12:550 INFO  HomePage :44 - Click on loginLink : Log in
+2024-12-16 19:12:136 INFO  LoginPage :47 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-16 19:12:267 INFO  LoginPage :56 - Enter Password 'Radhika123' to password field : 
+2024-12-16 19:12:457 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 19:12:60 INFO  RegisterPage :77 - Get registerText : Register
+2024-12-16 19:12:991 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 19:12:697 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-16 19:12:774 INFO  RegisterPage :156 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-16 19:12:858 INFO  RegisterPage :156 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-16 19:12:936 INFO  RegisterPage :156 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-16 19:12:04 INFO  RegisterPage :156 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-16 19:12:46 INFO  HomePage :59 - Click on registerLink : Register
+2024-12-16 19:12:570 INFO  RegisterPage :86 - Select 'Female' radio button
+2024-12-16 19:12:795 INFO  RegisterPage :97 - Enter Firstname : 'Tithi' to firstName field
+2024-12-16 19:12:880 INFO  RegisterPage :104 - Enter Lastname : 'Shah' to lastName field
+2024-12-16 19:12:29 INFO  RegisterPage :122 - Enter Email : 'Radhika.shah1901@gmail.com' to email field
+2024-12-16 19:12:130 INFO  RegisterPage :129 - Enter Password : 'Radhika123' to password field
+2024-12-16 19:12:234 INFO  RegisterPage :137 - Enter Confirm password : 'Radhika123' to confirm password field
+2024-12-16 19:12:787 INFO  RegisterPage :145 - Click on 'REGISTER' button
+2024-12-17 21:12:396 INFO  HomePage :83 - Click on 'COMPUTERS' tab
+2024-12-17 21:12:55 INFO  ComputerPage :27 - Get pageTitle text : Computers
+2024-12-17 21:12:793 INFO  HomePage :83 - Click on 'COMPUTERS' tab
+2024-12-17 21:12:673 INFO  ComputerPage :35 - Click on 'Desktops' link
+2024-12-17 21:12:278 INFO  DesktopsPage :35 - Get pageTitle text Desktops
+2024-12-17 21:12:780 INFO  HomePage :83 - Click on 'COMPUTERS' tab
+2024-12-17 21:12:423 INFO  ComputerPage :35 - Click on 'Desktops' link
+2024-12-17 21:12:137 INFO  DesktopsPage :52 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 21:12:308 INFO  BuildYourOwnComputerPage :57 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 21:12:500 INFO  BuildYourOwnComputerPage :63 - Select RAM '2 GB'
+2024-12-17 21:12:625 INFO  BuildYourOwnComputerPage :70 - Select HDD '320 GB'
+2024-12-17 21:12:792 INFO  BuildYourOwnComputerPage :80 - Select HDD 'Windows 7 [+50.00]'
+2024-12-17 21:12:980 INFO  BuildYourOwnComputerPage :98 - Click on 'ADD TO CART' Button
+2024-12-17 21:12:188 INFO  BuildYourOwnComputerPage :103 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 21:12:360 INFO  HomePage :83 - Click on 'COMPUTERS' tab
+2024-12-17 21:12:971 INFO  ComputerPage :35 - Click on 'Desktops' link
+2024-12-17 21:12:584 INFO  DesktopsPage :52 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 21:12:371 INFO  BuildYourOwnComputerPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 21:12:752 INFO  HomePage :83 - Click on 'COMPUTERS' tab
+2024-12-17 21:12:534 INFO  ComputerPage :35 - Click on 'Desktops' link
+2024-12-17 21:12:118 INFO  DesktopsPage :52 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 21:12:362 INFO  BuildYourOwnComputerPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 21:12:628 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 21:12:200 INFO  LoginPage :36 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 21:12:634 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 21:12:328 INFO  LoginPage :42 - Enter EmailId 'kasa@gmail.com' to email field : 
+2024-12-17 21:12:686 INFO  LoginPage :48 - Enter Password 'k123457' to password field : 
+2024-12-17 21:12:981 INFO  LoginPage :54 - Click on loginButton
+2024-12-17 21:12:135 INFO  LoginPage :59 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 21:12:124 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 21:12:66 INFO  LoginPage :42 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-17 21:12:263 INFO  LoginPage :48 - Enter Password 'Radhika123' to password field : 
+2024-12-17 21:12:139 INFO  LoginPage :54 - Click on loginButton
+2024-12-17 21:12:204 INFO  HomePage :70 - Checking is logOutLink displayed : Log out
+2024-12-17 21:12:337 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 21:12:287 INFO  LoginPage :42 - Enter EmailId 'Radhika.shah1901@gmail.com' to email field : 
+2024-12-17 21:12:483 INFO  LoginPage :48 - Enter Password 'Radhika123' to password field : 
+2024-12-17 21:12:743 INFO  HomePage :53 - Click on registerLink : Register
+2024-12-17 21:12:340 INFO  RegisterPage :75 - Get registerText : Register
+2024-12-17 21:12:73 INFO  HomePage :53 - Click on registerLink : Register
+2024-12-17 21:12:700 INFO  RegisterPage :125 - Click on 'REGISTER' button
+2024-12-17 21:12:784 INFO  RegisterPage :133 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-12-17 21:12:859 INFO  RegisterPage :133 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-12-17 21:12:929 INFO  RegisterPage :133 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-12-17 21:12:14 INFO  RegisterPage :133 - Validation message : 'Password is required.' for fieldName 'Password'
+2024-12-17 21:12:189 INFO  HomePage :53 - Click on registerLink : Register
+2024-12-17 21:12:747 INFO  RegisterPage :82 - Select 'Female' radio button
+2024-12-17 21:12:08 INFO  RegisterPage :91 - Enter Firstname : 'Tithi' to firstName field
+2024-12-17 21:12:147 INFO  RegisterPage :96 - Enter Lastname : 'Shah' to lastName field
+2024-12-17 21:12:388 INFO  RegisterPage :109 - Enter Email : 'Radhika.shah1901@gmail.com' to email field
+2024-12-17 21:12:525 INFO  RegisterPage :114 - Enter Password : 'Radhika123' to password field
+2024-12-17 21:12:660 INFO  RegisterPage :119 - Enter Confirm password : 'Radhika123' to confirm password field
+2024-12-17 21:12:259 INFO  RegisterPage :125 - Click on 'REGISTER' button
